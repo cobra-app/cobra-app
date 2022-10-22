@@ -1,1 +1,1 @@
-Official Octopus Product GitHub
+Official Cobra App GitHub
